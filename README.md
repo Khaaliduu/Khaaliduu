@@ -24,8 +24,7 @@ I design and build modern web & mobile applications with clean architecture and 
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,js,html,css,git,github,vscode,python&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,dart,nodejs,express,mongodb,js,html,css,git,github,vscode,python&perline=3)](https://skillicons.dev)
 **Also familiar with:**
 - REST APIs
 - Authentication (JWT)
